@@ -3,7 +3,7 @@
  <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGAR/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sagar Panigrahi<img src="https://camo.githubusercontent.com/65809b60765e9fbb862ab7ec0e1eb2eac5149814135ea9326c75857b96bcbf42/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f6868774d4479533672763373423879492f67697068792e676966"/></h1>
+<h1 align="center">Hi 👋, I'm Sagar Panigrahi<img src="https://camo.githubusercontent.com/65809b60765e9fbb862ab7ec0e1eb2eac5149814135ea9326c75857b96bcbf42/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f6868774d4479533672763373423879492f67697068792e676966"width="100"/></h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
 <!-- 👁️ Profile Views Counter -->
