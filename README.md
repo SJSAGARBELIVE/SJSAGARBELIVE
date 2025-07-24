@@ -31,7 +31,7 @@
   </a><br/>
   <a href="tel:+919820764823" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="25px" />
-    &nbsp;+91 98207 64823
+    &nbsp;+91 98207 64822
   </a>
 </p>
 
