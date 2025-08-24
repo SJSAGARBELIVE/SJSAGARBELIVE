@@ -1,65 +1,63 @@
-<!-- ✅ Banner Image -->
+<!-- ✅ Banner -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGAR/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGAR/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sagar Panigrahi<img src="https://camo.githubusercontent.com/65809b60765e9fbb862ab7ec0e1eb2eac5149814135ea9326c75857b96bcbf42/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f6868774d4479533672763373423879492f67697068792e676966"width="100"/></h1>
-<h3 align="center">A passionate Frontend Developer from India</h3>
-
-<!-- 👁️ Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sjsagarbelive&label=Profile%20views&color=0e75b6&style=flat" alt="sjsagarbelive" />
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sjsagarbelive" alt="Trophies" />
-</p>
+<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6;">Sagar Panigrahi</span></h1>
+<h3 align="center">🚀 Frontend Developer | MCA Student | Tech Enthusiast</h3>
 
 ---
 
-- 🌱 I’m currently learning **Master of Computer Application**
-- 📫 How to reach me: **Ragh1984fgh@gmail.com**
+### 👨‍💻 About Me
+- 🌱 Currently pursuing **Master of Computer Applications (MCA)**
+- 💡 Interested in **Frontend Development, MERN Stack & Java**
+- 📫 Reach me at: **Ragh1984fgh@gmail.com**
+- ⚡ Fun fact: I love solving problems and building real-world projects
 
 ---
 
-### 🔗 Connect with Me:
+### 🔗 Connect with Me
 <p align="left">
   <a href="mailto:shyampanigrahi62@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" width="30px" />
-    &nbsp;shyampanigrahi62@gmail.com
-  </a><br/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="28px" /> Email
+  </a> &nbsp; | &nbsp;
   <a href="tel:+919820764823" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="25px" />
-    &nbsp;+91 98207 64822
+    <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" width="25px" /> Call
+  </a> &nbsp; | &nbsp;
+  <a href="https://www.linkedin.com/in/sagar-p-086253225/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="28px" /> LinkedIn
   </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🖥️ Frontend
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
 </p>
 
 ---
@@ -71,13 +69,19 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsagarbelive&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sjsagarbelive&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<p>&nbsp;</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjsagarbelive&show_icons=true&locale=en" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sjsagarbelive&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sjsagarbelive&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+---
+
+✨ _“Code is like humor. When you have to explain it, it’s bad.”_  
