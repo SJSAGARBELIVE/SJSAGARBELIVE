@@ -48,6 +48,10 @@
 </p>
 
 ---
+<a href="https://github.com/yourusername" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       alt="GitHub" width="60" height="60"/>
+</a>
 
 ---
 
