@@ -9,9 +9,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **MERN Stack, PostgreSQL, and Three.js**
+- 🌱 Currently learning **MERN Stack, PostgreSQL, JAVA , Three.js**
 - 💡 Interested in **Frontend, Backend, UI/UX Design**
-- 📫 Reach me at **sagar.panigrahi@example.com**
+- 📫 Reach me at **ragh1984fgh@gmail.com**
 
 ---
 
