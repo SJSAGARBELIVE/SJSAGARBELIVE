@@ -1,3 +1,8 @@
+<!-- ✅ Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGAR/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sagar Panigrahi</h1>
 <h3 align="center">A passionate Full Stack Developer (Frontend + Backend)</h3>
 
