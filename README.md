@@ -6,51 +6,51 @@
 <h1 align="center">Hi 👋, I'm Sagar Panigrahi</h1>
 <h3 align="center">A passionate Full Stack Developer (Frontend + Backend)</h3>
 
----
+<hr/>
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **MERN Stack, PostgreSQL, JAVA , Three.js**
+- 🌱 Currently learning **MERN Stack, PostgreSQL, JAVA, Three.js**
 - 💡 Interested in **Frontend, Backend, FullStack**
-- 📫 Reach me at **https://itz-sagar.netlify.app/**
+- 📫 Reach me at **[Portfolio](https://itz-sagar.netlify.app/)**
 
----
-
+<hr/>
 
 ### 🖥️ Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="140" height="140"/> 
-  <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="140" height="140"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="100" height="100"/> 
+  <img src="https://img.icons8.com/color/100/figma.png" alt="Figma" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="Three.js" width="100" height="100"/> 
 </p>
 
----
+<hr/>
 
 ### ⚙️ Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="140" height="140"/> 
-  <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="Express.js" width="140" height="140"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" 
-     alt="MongoDB" width="100" height="60"/>1
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth1on-original.svg" alt="Python" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="140" height="140"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="140" height="140"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="100" height="100"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="100" height="100"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="100" height="100"/> 
 </p>
----
+
+<hr/>
+
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="140" height="140"/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="140" height="140"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="140" height="140"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="140" height="140"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="100" height="100"/>
+  <img src="https://img.icons8.com/ios-filled/100/ffffff/github.png" alt="GitHub" width="100" height="100"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="100" height="100"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="100" height="100"/>
 </p>
----
 
-## Developer 
+<hr/>
 
+## 👨‍💻 Developer 
 <table>
   <tr>
     <td align="left">
@@ -62,3 +62,9 @@
   </tr>
 </table>
 
+<hr/>
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/) 
+[![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/SJSAGARBELIVE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://itz-sagar.netlify.app/)
