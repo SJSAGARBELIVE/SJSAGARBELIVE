@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 - 🌱 Currently learning **MERN Stack, PostgreSQL, JAVA , Three.js**
-- 💡 Interested in **Frontend, Backend, UI/UX Design**
+- 💡 Interested in **Frontend, Backend, FullStack**
 - 📫 Reach me at **https://itz-sagar.netlify.app/**
 
 ---
