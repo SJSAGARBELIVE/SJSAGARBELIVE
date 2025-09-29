@@ -1,6 +1,6 @@
 <!-- ✅ Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGAR/main/cover-page.png" alt="Sagar Panigrahi Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SJSAGARBELIVE/SAGARPrivate/main/profileimage.jpg" alt="Sagar Panigrahi Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Panigrahi</h1>
