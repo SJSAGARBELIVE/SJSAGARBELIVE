@@ -65,6 +65,7 @@
 <hr/>
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-p-086253225)
+ 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white)](https://github.com/SJSAGARBELIVE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?logo=firefox&logoColor=white)](https://itz-sagar.netlify.app/)
