@@ -9,7 +9,7 @@
 <hr/>
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **MERN Stack, PostgreSQL, JAVA, Three.js**
+- 🌱 Currently learning **MERN Stack, PostgreSQL, NODE, NOSQL , JWT**
 - 💡 Interested in **Frontend, Backend, FullStack**
 - 📫 Reach me at **[Portfolio](https://itz-sagar.netlify.app/)**
 
