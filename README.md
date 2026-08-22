@@ -4,10 +4,102 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagar Panigrahi</h1>
-<h3 align="center">A passionate Full Stack Developer (Frontend + Backend)</h3>
 
-<hr/>
+<h3 align="center">
+🚀 Junior Full Stack Developer at FIDAR IMEX Pvt. Ltd.
+</h3>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=Junior+Full+Stack+Developer;React+%7C+React+Native+Developer;Node.js+Backend+Developer;AI+%26+Cloud+Enthusiast;Building+Scalable+Applications"/>
+</p>
+
+---
+
+# 💫 About Me
+
+💼 Junior Full Stack Developer at **FIDAR IMEX Pvt. Ltd.**
+
+I'm passionate about building scalable web and mobile applications using modern technologies. My work spans frontend development, backend APIs, cloud infrastructure, DevOps automation, and AI-powered solutions.
+
+- 🔭 Building Enterprise Web Applications
+- 📱 Developing Cross-Platform Mobile Apps
+- ⚛️ Creating Modern React Interfaces
+- 🚀 Designing Scalable Node.js APIs
+- 🤖 Integrating AI into Business Workflows
+- ☁️ Deploying Applications on AWS & GCP
+- ⚙️ Automating CI/CD Pipelines
+- 🌱 Exploring Kubernetes & System Design
+
+---
+
+# 🚀 Tech Stack
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,js,figma,vscode"/>
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis"/>
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,kubernetes,aws,gcp"/>
+</p>
+
+### 🤖 AI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mistral-FF7000?style=flat-square"/>
+</p>
+
+---
+
+# 💻 Current Focus
+
+- 🚀 Enterprise Web Applications
+- 📱 React Native Development
+- 🔐 Authentication & Authorization
+- 🤖 AI Integration
+- ☁️ Cloud Deployment
+- ⚙️ DevOps Automation
+- 📈 Performance Optimization
+
+===
+
+# 🤝 Let's Connect
+
+💬 Open to collaborating on:
+
+- Full Stack Development
+- React & React Native
+- Node.js APIs
+- AI Applications
+- Open Source
+- Cloud Solutions
+
+---
+
+<h3 align="center">
+
+🚀 Code • Build • Deploy • Learn • Repeat
+
+</h3>
 ### 👨‍💻 About Me
 - 🌱 Currently learning **MERN Stack, PostgreSQL, NODE, NOSQL , JWT**
 - 💡 Interested in **Frontend, Backend, FullStack**
