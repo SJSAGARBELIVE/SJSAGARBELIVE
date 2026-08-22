@@ -29,6 +29,10 @@ I'm passionate about building scalable web and mobile applications using modern 
 - ☁️ Deploying Applications on AWS & GCP
 - ⚙️ Automating CI/CD Pipelines
 - 🌱 Exploring Kubernetes & System Design
+- 💡 Interested in **Frontend, Backend, FullStack**
+- 📫 Reach me at **[Portfolio](https://itz-sagar.netlify.app/)**
+
+<hr/>
 
 ---
 
